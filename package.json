@@ -1,0 +1,31 @@
+{
+  "name": "SteveCalamia.com",
+  "version": "1.0.0",
+  "description": "An experiment with sizeable content cards",
+  "main": "main.js",
+  "dependencies": {
+    "karma": "^0.12.25"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-qunit": "^0.5.2",
+    "grunt-contrib-sass": "^0.8.1",
+    "grunt-contrib-uglify": "^0.6.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-markdown": "^0.6.1",
+    "qunit": "^0.7.5"
+  },
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevecalamia/infocards.git"
+  },
+  "author": "Steve Calamia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevecalamia/infocards/issues"
+  },
+  "homepage": "https://github.com/stevecalamia/infocards"
+}
